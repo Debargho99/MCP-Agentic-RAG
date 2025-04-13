@@ -75,19 +75,3 @@ In Cursor IDE settings → MCP → Add Global MCP Server:
 
 ✅ Done! Your IDE is now enhanced with Agentic RAG search capabilities.
 
----
-
-## 📬 Stay Updated with Our Newsletter!
-Get a FREE Data Science eBook 📖 with 150+ essential lessons in ML, AI, and statistics when you subscribe!
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
----
-
-## 🤝 Contributions
-
-Pull requests are welcome! If you have new MCP workflows, connectors, or ideas to enhance this setup, feel free to fork and share.
-
----
-
-© Powered by [DailyDoseofDS.com](https://join.dailydoseofds.com)
